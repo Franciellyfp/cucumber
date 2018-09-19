@@ -3955,3 +3955,9 @@ org.eclipse.equinox.p2.core.ProvisionException: No repository found at org.apach
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-19 15:23:06.709
 !MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-19 18:10:55.911
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2018-09-19 18:10:55.915
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
