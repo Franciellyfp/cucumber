@@ -1,0 +1,7 @@
+package test;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(features = "classpath:features", tags = "@BancoTeste", 
+glue = "cucumber.test.test.steps", monochrome = true, dryRun = false)
+public class BancoTeste {
+}

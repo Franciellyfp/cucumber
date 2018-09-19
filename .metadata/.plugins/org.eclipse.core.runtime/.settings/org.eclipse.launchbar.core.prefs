@@ -1,0 +1,9 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:banco.feature,org.eclipse.launchbar.core.descriptorType.default\:conta.feature
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:banco.feature/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:banco.feature/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:conta.feature/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:conta.feature/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
